@@ -24,6 +24,6 @@ Responsive Web Design 201
 * **[A Book Apart - Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) -** THE resource on getting started with responsive web design.
 * **[Bootstrap Documentation](http://getbootstrap.com/getting-started/) -** Instructions on how to use different Bootstrap components and styles.
 * **[HTML5 Boilerplate](http://html5boilerplate.com) -** A simple boilerplate with a CSS reset and other nifty things for making a quick website.
-* **[Media Query template](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/} -** Basic template full of media queries that you can use on a project.
+* **[Media Query template](http://css-tricks.com/snippets/css/media-queries-for-standard-devices/) -** Basic template full of media queries that you can use on a project.
 
 [^TR1]: http://www.techrepublic.com/blog/web-designer/what-is-the-difference-between-responsive-vs-adaptive-web-design/
