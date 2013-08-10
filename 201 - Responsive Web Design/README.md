@@ -21,5 +21,6 @@ Responsive Web Design 201
 * **[Mozilla media query guide](http://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Media_queries?redirectlocale=en-US&redirectslug=CSS%2FMedia_queries) -** A guide to using media queries.
 * **[Am I Responsive?](http://ami.responsivedesign.is) -** Test your websites responsiveness by plugging your URL into this website.
 * **[Using Responsive Design](http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/) -** An excellent blog post on Smashing Magazine about using Responsive Web Design
+* **[A Book Apart - Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) -** THE resource on getting started with responsive web design.
 
 [^TR1]: http://www.techrepublic.com/blog/web-designer/what-is-the-difference-between-responsive-vs-adaptive-web-design/
