@@ -22,5 +22,6 @@ Responsive Web Design 201
 * **[Am I Responsive?](http://ami.responsivedesign.is) -** Test your websites responsiveness by plugging your URL into this website.
 * **[Using Responsive Design](http://coding.smashingmagazine.com/2011/01/12/guidelines-for-responsive-web-design/) -** An excellent blog post on Smashing Magazine about using Responsive Web Design
 * **[A Book Apart - Responsive Web Design](http://www.abookapart.com/products/responsive-web-design) -** THE resource on getting started with responsive web design.
+* **[Bootstrap Documentation](http://getbootstrap.com/getting-started/) -** Instructions on how to use different Bootstrap components and styles.
 
 [^TR1]: http://www.techrepublic.com/blog/web-designer/what-is-the-difference-between-responsive-vs-adaptive-web-design/
