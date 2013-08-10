@@ -1,6 +1,9 @@
 Responsive Web Design 201
 =========================
 
+## The Project
+[The project](/project) that we'll be working on is based off of initializr (link below), with Heads-Up Grid integration (link also below). We will be converting this simple boilerplate website into a 
+
 ## Key Elements
 1. **@media queries -** Allow you to set element attributes based on  device type and browser width. 
 2. **font sizing -** No longer should we be using px or pt, welcome to the new world of using em!
