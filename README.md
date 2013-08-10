@@ -1,4 +1,4 @@
-webdesign
+Web Design & Development Track
 =========
 
-Web Design and Development Track
+This is the main directory for 100-400 level web design and development courses that are taught at SpaceLab.
