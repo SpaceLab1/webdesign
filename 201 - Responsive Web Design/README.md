@@ -2,7 +2,7 @@ Responsive Web Design 201
 =========================
 
 ## The Project
-[The project](/project) that we'll be working on is based off of Initializr (link below), with Heads-Up Grid integration (link also below). We will be converting this boilerplate website into a simple members directory for SpaceLab 1.
+[The project](webdesign/201 - Responsive Web Design/project) that we'll be working on is based off of Initializr (link below), with Heads-Up Grid integration (link also below). We will be converting this boilerplate website into a simple members directory for SpaceLab 1.
 
 ## Key Elements
 1. **@media queries -** Allow you to set element attributes based on  device type and browser width. 
